@@ -1,0 +1,16 @@
+{
+  "name": "comforter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "dependencies": {
+    "lambswool": "^1.0.0"
+  },
+  "devDependencies": { "test": ">=0.0.5" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
